@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Component
+
+component collection for react-app
+
+# Renew local repository
+
+- git branch -m main datatable
+- git fetch origin
+- git branch -u origin/datatable datatable
+- git remote set-head origin -a
+
+>>>>>>> 514a69adf1047486e4dc16db08ffb15595776011
