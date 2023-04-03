@@ -19,4 +19,3 @@ penggunaan aplikasi pada route "/thunk/get"
 ### `npm start`
 ### `http://localhost:3000/thunk/get` >> untuk asynchronus redux
 ### `http://localhost:3000/` `http://localhost:3000/add` >> untuk redux biasa
-
